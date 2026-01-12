@@ -18,8 +18,7 @@ int main()
     plusGrand = B;
     if(C >= plusGrand)
     plusGrand = C;
-    
     cout << "La valeur plus Grand est: "<<plusGrand<<endl;
     return 0;
-
+    
  }
